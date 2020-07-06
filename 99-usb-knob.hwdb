@@ -1,0 +1,4 @@
+evdev:input:b*v0483p572D*
+ KEYBOARD_KEY_c00ea=left
+ KEYBOARD_KEY_c00e9=right
+ KEYBOARD_KEY_c00e2=m
